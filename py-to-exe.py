@@ -19,4 +19,4 @@ py_to_exe = input(Fore.RED+'Entrée le nom du fichier .py à compiler en .exe : 
 os.system(f'pyinstaller --onefile {py_to_exe}')
 clear.clear()
 print(Fore.MAGENTA+"[+]Merci d'utiliser ce tool.")
-input(Fore.MAGENTA+f'[+]Le fichier "{py_to_exe}" à bien etais compiler dans le fichier "dist"...')
+input(Fore.MAGENTA+f'[+]Le fichier "{py_to_exe}" à bien etais compiler dans le dossier "dist"...')

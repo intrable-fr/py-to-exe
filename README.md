@@ -10,7 +10,7 @@
 - **`Linux` Installation**
 
 ```shell
-git clone https://github.com/gqkfh/shodan-email
+git clone https://github.com/intrable-fr/py-to-exe/
 ```
 
 > **Execution**
